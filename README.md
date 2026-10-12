@@ -347,6 +347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [Unslop](https://oleg.design/unslop) `https://oleg.design/unslop/mcp`
+  [![Unslop MCP connector](https://glama.ai/mcp/connectors/io.github.0design/unslop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0design/unslop)
+  🔓 - Read-only canon of design and copy rules that AI agents use to audit generated UI, served as resources.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
@@ -776,6 +779,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
+- [QFactory](https://qfactory.io) `https://qfactory.io/api/mcp`
+  [![QFactory MCP connector](https://glama.ai/mcp/connectors/io.github.0design/qfactory/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0design/qfactory)
+  🔓 - Read-only catalog of agent workflows: search, fetch exact versions, read the schema and validate workflow YAML.
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
